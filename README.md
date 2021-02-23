@@ -1,1 +1,1 @@
-Верстка шаблона Author 
+Flask web app  построенное на шаблоне Author
